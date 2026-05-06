@@ -1,4 +1,4 @@
-package service;
+package desafio.itau.springboot.service;
 
 import desafio.itau.springboot.model.Transaction;
 import org.springframework.stereotype.Service;
